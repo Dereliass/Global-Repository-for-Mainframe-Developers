@@ -8,7 +8,7 @@ User profiles contain security information about the userid's defined to RACF wh
 | Add a userid to the RACF database | ```AU userid NAME(‘user_name’) DFLTGRP(grp_name) OWNER(owner) PASS(password)``` |
 | List a userid profile | ```LU userid``` |
 | Set a temporary password to a userid | ```ALU userid PASSWORD(password)``` |
-| Revoke a userid | ```ALU userid REVOKE``` |
+| Revoke a userid | ```dfgdfgdfgdfg``` |
 | Resume a userid | ```ALU userid RESUME``` |
 | Resume a userid and set a temporary password | ```ALU userid RESUME PASS(password)``` |
 | Connect a userid to a RACF group | ```CO userid GROUP(grp_name) OWN(grp_name)``` |
