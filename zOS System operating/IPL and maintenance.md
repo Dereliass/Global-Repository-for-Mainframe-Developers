@@ -11,6 +11,9 @@ where
 * **c**    - IMSI (initialization message suppression indicator) - the prompting and message suppression characteristics
 * **d**    - nucleus data set number - IEANUC0d и IEANUC2d
 
+
+NEW TEXT
+
 If the LOADPARM keyword is not specified, by default:
 * the search for the IODF file will be performed on the SYSRES volume
 * LOAD00 will be selected
